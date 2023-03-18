@@ -27,8 +27,7 @@ I am an Android & IOS developer <img src="https://media.giphy.com/media/WUlplcMp
 
 --> Concurrency - IOS
 
-## Reach Me 
-- 🤔 Have a Question? 
+## 🚕 Reach Me 
 
 <p >
   <a href="https://www.linkedin.com/in/akardas16">
