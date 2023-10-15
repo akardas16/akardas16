@@ -17,6 +17,8 @@ I am an Android & IOS developer <img src="https://media.giphy.com/media/WUlplcMp
 
 --> Coroutine – Android
 
+--> Jetpack Compose – Android
+
 --> View Binding – Android
 
 --> Networking / Rest API – Android & IOS
